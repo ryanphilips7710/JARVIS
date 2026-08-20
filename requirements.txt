@@ -1,0 +1,16 @@
+flask
+flask-cors
+pyaudio
+numpy
+sounddevice
+colorama
+pyfiglet
+pygame
+pyttsx3
+edge-tts
+openai-whisper
+ollama
+python-weather
+psutil
+selenium
+webdriver-manager
